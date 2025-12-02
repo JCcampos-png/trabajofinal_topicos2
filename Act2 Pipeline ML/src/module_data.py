@@ -1,3 +1,10 @@
+#este modulo encapsula toda la logica de prepacioon de los datos
+#se creo la ColumnTransformer que aplica diferentes transformaciones a distintos tipos de columnas 
+
+# Preprocesamientos sencillo, imputacion (Se utiliza la Mediana para variables numéricas (más robusta que la media ante outliers como bmi). Para las categóricas, se usa una constante 'Missing' para preservar la información de que el dato estaba ausente (ej. patient_race)
+# Escalado(Se aplica StandardScaler a todas las variables numéricas, lo cual es fundamental para modelos basados en distancia (como KNN y Regresión Logística).
+# Codificacion (Se utiliza OneHotEncoder para convertir las variables categóricas en binarias.)
+# Eliminacion (Se eliminan las columnas con casi el 100% de nulos (metastatic...)
 #%%
 import pandas as pd
 from sklearn.model_selection import train_test_split
