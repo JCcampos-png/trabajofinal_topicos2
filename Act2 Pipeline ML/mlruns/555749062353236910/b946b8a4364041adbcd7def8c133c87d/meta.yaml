@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/JuanCarlosCamposHerr/Desktop/MCD/3erSemestreMCD/Topicos_II/trabajofinal_topicos2/Act2%20Pipeline%20ML/mlruns/555749062353236910/b946b8a4364041adbcd7def8c133c87d/artifacts
+end_time: 1764650095462
+entry_point_name: ''
+experiment_id: '555749062353236910'
+lifecycle_stage: active
+run_id: b946b8a4364041adbcd7def8c133c87d
+run_name: welcoming-finch-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764650087840
+status: 3
+tags: []
+user_id: JuanCarlosCamposHerr

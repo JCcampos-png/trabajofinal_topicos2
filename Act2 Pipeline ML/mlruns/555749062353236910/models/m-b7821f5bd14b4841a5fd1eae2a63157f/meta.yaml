@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/JuanCarlosCamposHerr/Desktop/MCD/3erSemestreMCD/Topicos_II/trabajofinal_topicos2/Act2%20Pipeline%20ML/mlruns/555749062353236910/models/m-b7821f5bd14b4841a5fd1eae2a63157f/artifacts
+creation_timestamp: 1764650072808
+experiment_id: '555749062353236910'
+last_updated_timestamp: 1764650087797
+model_id: m-b7821f5bd14b4841a5fd1eae2a63157f
+model_type: null
+name: model
+source_run_id: 56b394a15afe42418c9b604309ddd60f
+status: 2
+status_message: null

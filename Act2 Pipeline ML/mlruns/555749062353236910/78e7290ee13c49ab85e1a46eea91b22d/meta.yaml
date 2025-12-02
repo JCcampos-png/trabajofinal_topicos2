@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/JuanCarlosCamposHerr/Desktop/MCD/3erSemestreMCD/Topicos_II/trabajofinal_topicos2/Act2%20Pipeline%20ML/mlruns/555749062353236910/78e7290ee13c49ab85e1a46eea91b22d/artifacts
+end_time: 1764650208155
+entry_point_name: ''
+experiment_id: '555749062353236910'
+lifecycle_stage: active
+run_id: 78e7290ee13c49ab85e1a46eea91b22d
+run_name: bouncy-crab-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764650200162
+status: 3
+tags: []
+user_id: JuanCarlosCamposHerr

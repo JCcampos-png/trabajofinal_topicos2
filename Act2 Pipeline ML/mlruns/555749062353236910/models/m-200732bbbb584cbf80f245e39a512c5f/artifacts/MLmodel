@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/JuanCarlosCamposHerr/Desktop/MCD/3erSemestreMCD/Topicos_II/trabajofinal_topicos2/Act2%20Pipeline%20ML/mlruns/555749062353236910/models/m-200732bbbb584cbf80f245e39a512c5f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-200732bbbb584cbf80f245e39a512c5f
+model_size_bytes: 1544215
+model_uuid: m-200732bbbb584cbf80f245e39a512c5f
+prompts: null
+run_id: 6ac1c8c3af0f4b13b3f7d93f70259c5f
+utc_time_created: '2025-12-02 04:36:57.969339'

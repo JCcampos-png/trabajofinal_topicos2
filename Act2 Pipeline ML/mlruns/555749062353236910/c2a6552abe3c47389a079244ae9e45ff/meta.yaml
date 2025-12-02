@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/JuanCarlosCamposHerr/Desktop/MCD/3erSemestreMCD/Topicos_II/trabajofinal_topicos2/Act2%20Pipeline%20ML/mlruns/555749062353236910/c2a6552abe3c47389a079244ae9e45ff/artifacts
+end_time: 1764650214525
+entry_point_name: ''
+experiment_id: '555749062353236910'
+lifecycle_stage: active
+run_id: c2a6552abe3c47389a079244ae9e45ff
+run_name: melodic-hound-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764650208162
+status: 3
+tags: []
+user_id: JuanCarlosCamposHerr

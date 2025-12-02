@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/JuanCarlosCamposHerr/Desktop/MCD/3erSemestreMCD/Topicos_II/trabajofinal_topicos2/Act2%20Pipeline%20ML/mlruns/555749062353236910/5e138e5ed3954695bc38a5c4daa75a3a/artifacts
+end_time: 1764650107643
+entry_point_name: ''
+experiment_id: '555749062353236910'
+lifecycle_stage: active
+run_id: 5e138e5ed3954695bc38a5c4daa75a3a
+run_name: chill-squirrel-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764650095470
+status: 3
+tags: []
+user_id: JuanCarlosCamposHerr

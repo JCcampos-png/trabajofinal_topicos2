@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/JuanCarlosCamposHerr/Desktop/MCD/3erSemestreMCD/Topicos_II/trabajofinal_topicos2/Act2%20Pipeline%20ML/mlruns/555749062353236910/c456d98487104c8095abc60699476cb5/artifacts
+end_time: 1764650116571
+entry_point_name: ''
+experiment_id: '555749062353236910'
+lifecycle_stage: active
+run_id: c456d98487104c8095abc60699476cb5
+run_name: luminous-foal-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764650107659
+status: 3
+tags: []
+user_id: JuanCarlosCamposHerr
